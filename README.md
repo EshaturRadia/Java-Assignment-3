@@ -7,6 +7,5 @@ Q2 -> Assignment3-Question2
 
 Group Members:
 
-Name                     Roll#
-Esha Tur Radia           3920
-Tarish Nisar             3930
+Name:  Esha Tur Radia      Roll# 3920
+Name:  Tarish Nisar        Roll#  3930
